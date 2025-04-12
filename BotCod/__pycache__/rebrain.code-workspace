@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../rebrain"
+		},
+		{
+			"path": "../../../otus"
+		},
+		{
+			"path": "../../../test"
+		},
+		{
+			"path": "../../../book_agrigator"
+		},
+		{
+			"path": "../../../anothertest"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
