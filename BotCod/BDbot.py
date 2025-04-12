@@ -20,4 +20,5 @@ def but1(call):
         elif call.data == 'hard':  
             bot.send_message(call.message.chat.id, 'Тоже Работает')            
             
-bot.polling(none_stop=True)   
+            
+bot.polling(none_stop=True)      
